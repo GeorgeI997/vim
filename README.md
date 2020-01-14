@@ -1,2 +1,5 @@
 # vim
-just for vim
+
+mv .vimrc ~/.vimrc
+mv vim ~/.vim
+
